@@ -1,0 +1,2 @@
+# sentimentAnalysisNLP
+LSTM
